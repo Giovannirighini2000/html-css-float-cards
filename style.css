@@ -6,7 +6,7 @@
 }
 body{
     background-color: white;
-    max-width: 1200px;
+    max-width: 1500px;
     border: 2px solid white;
     margin: 50px 15px 50px 150px;
    
@@ -16,4 +16,25 @@ body{
     padding-bottom: 30px;
     color: rgb(214, 43, 95);
     font-size: 30px;
+}
+.p1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+img{
+    width: 70px;
+    float: left;
+}
+.col{
+    
+    width: 30%;
+    background-color: rgb(12, 11, 11);
+    float: left;
+}
+
+.raw .clearfix{
+    content: ".";  
+    display: block;
+    clear: both;
+
 }
