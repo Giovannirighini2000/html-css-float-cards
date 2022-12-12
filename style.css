@@ -31,7 +31,8 @@ img{
     width: 30%;
     background-color: rgb(12, 11, 11);
     float: left;
-    margin-right: 5%;      
+    margin-right: 5%;   
+    margin-bottom: 30px;      
 }
 .col:nth-of-type(3n+3){
     margin: 0;
@@ -53,6 +54,10 @@ img{
     color: rgb(73, 142, 233);
 }
 .testo{
-    border: 1 1 5 1 solid  rgb(12, 11, 11);
-    background-color:  rgb(12, 11, 11);
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 1;
+    
+
 }
