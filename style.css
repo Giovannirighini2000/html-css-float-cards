@@ -30,6 +30,11 @@ img{
     width: 30%;
     background-color: rgb(12, 11, 11);
     float: left;
+    margin-right: 5%;
+    
+}
+.col:nth-of-type(3n+3){
+    margin: 0;
 }
 
 .raw .clearfix{
