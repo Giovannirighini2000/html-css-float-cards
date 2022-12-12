@@ -54,10 +54,9 @@ img{
     color: rgb(73, 142, 233);
 }
 .testo{
-    padding-left: 10px;
-    padding-top: 3px;
-    padding-bottom: 3px;
-    padding-right: 1;
-    
-
+    display: inline-block;
+    padding-top: 6px;
+    padding-left: 12px;
+    padding-bottom: 6px;
+     
 }
