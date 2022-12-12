@@ -16,7 +16,7 @@ body{
     padding-bottom: 30px;
     color: rgb(214, 43, 95);
     font-size: 30px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:"fredoka";
 }
 .p1{
     text-align: center;
@@ -48,19 +48,19 @@ img{
 }
 .p2{
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:"fredoka";
     padding-bottom: 2px;
-    font-size: 15px;
+    font-size: 14px;
 }
 .p3{
     color: white;
-    font-size: 13px;
+    font-size: 12px;
      padding-bottom: 2px;
 }
 
 .p4{
     color: rgb(73, 142, 233);
-    font-size: 13px;
+    font-size: 12px;
     padding-bottom: 2px; 
 }
 .testo{
